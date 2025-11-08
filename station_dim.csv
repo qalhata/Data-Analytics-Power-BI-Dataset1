@@ -1,0 +1,26 @@
+StationCode,StationName,Region,StationType
+PAD,London Paddington,Western,Major Hub
+RDG,Reading,Western,Regional
+OXF,Oxford,Western,Regional
+BNM,Birmingham New Street,Midlands,Major Hub
+MAN,Manchester Piccadilly,North West,Major Hub
+LDS,Leeds,North East,Major Hub
+NCL,Newcastle,North East,Regional
+EDB,Edinburgh Waverley,Scotland,Major Hub
+GLC,Glasgow Central,Scotland,Major Hub
+EUS,London Euston,North West,Major Hub
+KGX,London Kings Cross,East Coast,Major Hub
+YRK,York,East Coast,Regional
+CDF,Cardiff Central,Wales,Major Hub
+BRS,Bristol Temple Meads,Western,Major Hub
+BTN,Brighton,South East,Regional
+SOU,Southampton Central,Wessex,Regional
+PMH,Portsmouth Harbour,Wessex,Local
+CAM,Cambridge,Anglia,Regional
+NWI,Norwich,Anglia,Regional
+LIV,Liverpool Lime Street,North West,Major Hub
+SHE,Sheffield,Midlands,Regional
+NOT,Nottingham,Midlands,Regional
+DHM,Durham,North East,Local
+ABW,Aberdeen,Scotland,Local
+INV,Inverness,Scotland,Local
